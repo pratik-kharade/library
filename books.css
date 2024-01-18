@@ -1,0 +1,14 @@
+body {
+  margin: 40px;
+  display: flex;
+  justify-content: center;
+  background: black;
+}
+#new-book-button {
+  background: #0e7490;
+  border: none;
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  color: white;
+}
